@@ -3,8 +3,9 @@ __pycache__/
 *.py[cod]
 .ipynb_checkpoints*
 
-# Don't commit large csv files
+# Don't commit large csv files or compressed files
 *.csv
+*.gz
 
 # C extensions
 *.so
