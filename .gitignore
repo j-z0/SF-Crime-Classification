@@ -6,6 +6,7 @@ __pycache__/
 # Don't commit large csv files or compressed files
 *.csv
 *.gz
+*.7z
 
 # C extensions
 *.so
