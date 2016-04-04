@@ -7,6 +7,7 @@ __pycache__/
 *.csv
 *.gz
 *.7z
+*.zip
 
 # C extensions
 *.so
